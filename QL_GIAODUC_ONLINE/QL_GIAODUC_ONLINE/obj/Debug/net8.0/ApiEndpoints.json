@@ -1,0 +1,1524 @@
+[
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.BaiHocController",
+    "Method": "GetBaiHocs",
+    "RelativePath": "api/BaiHoc",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HETHONG_QUANLY_GIAODUC_MVC.Models.BaiHoc, QL_GIAODUC_ONLINE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.BaiHocController",
+    "Method": "PostBaiHoc",
+    "RelativePath": "api/BaiHoc",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "baiHoc",
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.BaiHoc",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.BaiHoc",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.BaiHocController",
+    "Method": "GetBaiHoc",
+    "RelativePath": "api/BaiHoc/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.BaiHoc",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.BaiHocController",
+    "Method": "PutBaiHoc",
+    "RelativePath": "api/BaiHoc/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "baiHoc",
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.BaiHoc",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.BaiHocController",
+    "Method": "DeleteBaiHoc",
+    "RelativePath": "api/BaiHoc/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.BaiHocController",
+    "Method": "GetBaiHocByKhoaHoc",
+    "RelativePath": "api/BaiHoc/khoahoc/{khoaHocId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "khoaHocId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HETHONG_QUANLY_GIAODUC_MVC.Models.BaiHoc, QL_GIAODUC_ONLINE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.BaiKiemTraController",
+    "Method": "GetBaiKiemTras",
+    "RelativePath": "api/BaiKiemTra",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HETHONG_QUANLY_GIAODUC_MVC.Models.BaiKiemTra, QL_GIAODUC_ONLINE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.BaiKiemTraController",
+    "Method": "PostBaiKiemTra",
+    "RelativePath": "api/BaiKiemTra",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "baiKiemTra",
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.BaiKiemTra",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.BaiKiemTra",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.BaiKiemTraController",
+    "Method": "GetBaiKiemTra",
+    "RelativePath": "api/BaiKiemTra/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.BaiKiemTra",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.BaiKiemTraController",
+    "Method": "PutBaiKiemTra",
+    "RelativePath": "api/BaiKiemTra/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "baiKiemTra",
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.BaiKiemTra",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.BaiKiemTraController",
+    "Method": "DeleteBaiKiemTra",
+    "RelativePath": "api/BaiKiemTra/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.BaiKiemTraController",
+    "Method": "GetBaiKiemTraByGiangVienId",
+    "RelativePath": "api/BaiKiemTra/giangvien/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HETHONG_QUANLY_GIAODUC_MVC.Models.BaiKiemTra, QL_GIAODUC_ONLINE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.BaiKiemTraController",
+    "Method": "GetBaiKiemTraByMa",
+    "RelativePath": "api/BaiKiemTra/search/{maBKT}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "maBKT",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.BaiKiemTra",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.CauHoiController",
+    "Method": "GetCauHois",
+    "RelativePath": "api/CauHoi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HETHONG_QUANLY_GIAODUC_MVC.Models.CauHoi, QL_GIAODUC_ONLINE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.CauHoiController",
+    "Method": "PostCauHoi",
+    "RelativePath": "api/CauHoi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cauHoi",
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.CauHoi",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.CauHoi",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.CauHoiController",
+    "Method": "GetCauHoi",
+    "RelativePath": "api/CauHoi/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.CauHoi",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.CauHoiController",
+    "Method": "PutCauHoi",
+    "RelativePath": "api/CauHoi/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "cauHoi",
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.CauHoi",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.CauHoiController",
+    "Method": "DeleteCauHoi",
+    "RelativePath": "api/CauHoi/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.CauHoiController",
+    "Method": "GetCauHoiByBaiKiemTraId",
+    "RelativePath": "api/CauHoi/baikiemtra/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HETHONG_QUANLY_GIAODUC_MVC.Models.CauHoi, QL_GIAODUC_ONLINE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.GiangVienController",
+    "Method": "GetGiangViens",
+    "RelativePath": "api/GiangVien",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HETHONG_QUANLY_GIAODUC_MVC.Models.GiangVien, QL_GIAODUC_ONLINE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.GiangVienController",
+    "Method": "PostGiangVien",
+    "RelativePath": "api/GiangVien",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "giangVien",
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.GiangVien",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.GiangVien",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.GiangVienController",
+    "Method": "GetGiangVien",
+    "RelativePath": "api/GiangVien/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.GiangVien",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.GiangVienController",
+    "Method": "PutGiangVien",
+    "RelativePath": "api/GiangVien/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "giangVien",
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.GiangVien",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.GiangVienController",
+    "Method": "DeleteGiangVien",
+    "RelativePath": "api/GiangVien/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.HocVienController",
+    "Method": "GetHocViens",
+    "RelativePath": "api/HocVien",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HETHONG_QUANLY_GIAODUC_MVC.Models.HocVien, QL_GIAODUC_ONLINE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.HocVienController",
+    "Method": "PostHocVien",
+    "RelativePath": "api/HocVien",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "hocVien",
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.HocVien",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.HocVien",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.HocVien_KhoaHocController",
+    "Method": "GetHocVien_KhoaHocs",
+    "RelativePath": "api/HocVien_KhoaHoc",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HETHONG_QUANLY_GIAODUC_MVC.Models.HocVien_KhoaHoc, QL_GIAODUC_ONLINE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.HocVien_KhoaHocController",
+    "Method": "PostHocVien_KhoaHoc",
+    "RelativePath": "api/HocVien_KhoaHoc",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "hocVien_KhoaHoc",
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.HocVien_KhoaHoc",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.HocVien_KhoaHoc",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.HocVien_KhoaHocController",
+    "Method": "GetHocVien_KhoaHoc",
+    "RelativePath": "api/HocVien_KhoaHoc/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.HocVien_KhoaHoc",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.HocVien_KhoaHocController",
+    "Method": "PutHocVien_KhoaHoc",
+    "RelativePath": "api/HocVien_KhoaHoc/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "hocVien_KhoaHoc",
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.HocVien_KhoaHoc",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.HocVien_KhoaHocController",
+    "Method": "DeleteHocVien_KhoaHoc",
+    "RelativePath": "api/HocVien_KhoaHoc/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.HocVien_KhoaHocController",
+    "Method": "GetHocVienKhoaHocsByHocVienId",
+    "RelativePath": "api/HocVien_KhoaHoc/hocvien/{hocvienId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "hocvienId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HETHONG_QUANLY_GIAODUC_MVC.Models.HocVien_KhoaHoc, QL_GIAODUC_ONLINE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.HocVienController",
+    "Method": "GetHocVien",
+    "RelativePath": "api/HocVien/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.HocVien",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.HocVienController",
+    "Method": "PutHocVien",
+    "RelativePath": "api/HocVien/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "hocVien",
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.HocVien",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.HocVienController",
+    "Method": "DeleteHocVien",
+    "RelativePath": "api/HocVien/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.HocVienController",
+    "Method": "GetHocViensByGiangVien",
+    "RelativePath": "api/HocVien/giangvien/{giangvienId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "giangvienId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HETHONG_QUANLY_GIAODUC_MVC.Models.HocVien, QL_GIAODUC_ONLINE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.HocVienController",
+    "Method": "GetKetQuaHocTap",
+    "RelativePath": "api/HocVien/ketqua/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.HocVienController",
+    "Method": "GetHocViensByKhoaHoc",
+    "RelativePath": "api/HocVien/khoahoc/{khoahocId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "khoahocId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HETHONG_QUANLY_GIAODUC_MVC.Models.HocVien, QL_GIAODUC_ONLINE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.KetQuaKiemTraController",
+    "Method": "GetKetQuaKiemTras",
+    "RelativePath": "api/KetQuaKiemTra",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HETHONG_QUANLY_GIAODUC_MVC.Models.KetQuaKiemTra, QL_GIAODUC_ONLINE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.KetQuaKiemTraController",
+    "Method": "PostKetQuaKiemTra",
+    "RelativePath": "api/KetQuaKiemTra",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ketQuaKiemTra",
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.KetQuaKiemTra",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.KetQuaKiemTra",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.KetQuaKiemTraController",
+    "Method": "GetKetQuaKiemTra",
+    "RelativePath": "api/KetQuaKiemTra/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.KetQuaKiemTra",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.KetQuaKiemTraController",
+    "Method": "DeleteKetQuaKiemTra",
+    "RelativePath": "api/KetQuaKiemTra/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.KhoaHocController",
+    "Method": "GetKhoaHocs",
+    "RelativePath": "api/KhoaHoc",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HETHONG_QUANLY_GIAODUC_MVC.Models.KhoaHoc, QL_GIAODUC_ONLINE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.KhoaHocController",
+    "Method": "PostKhoaHoc",
+    "RelativePath": "api/KhoaHoc",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "khoaHoc",
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.KhoaHoc",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.KhoaHoc",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.KhoaHocController",
+    "Method": "GetKhoaHoc",
+    "RelativePath": "api/KhoaHoc/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.KhoaHoc",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.KhoaHocController",
+    "Method": "PutKhoaHoc",
+    "RelativePath": "api/KhoaHoc/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "khoaHoc",
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.KhoaHoc",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.KhoaHocController",
+    "Method": "DeleteKhoaHoc",
+    "RelativePath": "api/KhoaHoc/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.KhoaHocController",
+    "Method": "GetKhoaHocByUser",
+    "RelativePath": "api/KhoaHoc/user/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HETHONG_QUANLY_GIAODUC_MVC.Models.KhoaHoc, QL_GIAODUC_ONLINE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.LuaChonController",
+    "Method": "GetLuaChons",
+    "RelativePath": "api/LuaChon",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HETHONG_QUANLY_GIAODUC_MVC.Models.LuaChon, QL_GIAODUC_ONLINE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.LuaChonController",
+    "Method": "PostLuaChon",
+    "RelativePath": "api/LuaChon",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "luaChon",
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.LuaChon",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.LuaChon",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.LuaChonController",
+    "Method": "GetLuaChon",
+    "RelativePath": "api/LuaChon/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.LuaChon",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.LuaChonController",
+    "Method": "PutLuaChon",
+    "RelativePath": "api/LuaChon/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "luaChon",
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.LuaChon",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.LuaChonController",
+    "Method": "DeleteLuaChon",
+    "RelativePath": "api/LuaChon/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.LuaChonController",
+    "Method": "GetLuaChonByCauHoiId",
+    "RelativePath": "api/LuaChon/cauhoi/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HETHONG_QUANLY_GIAODUC_MVC.Models.LuaChon, QL_GIAODUC_ONLINE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.SendEmailController",
+    "Method": "SendEmail",
+    "RelativePath": "api/SendEmail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "QL_GIAODUC_ONLINE.Controllers.EmailModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.TaiKhoanController",
+    "Method": "GetTaiKhoans",
+    "RelativePath": "api/TaiKhoan",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HETHONG_QUANLY_GIAODUC_MVC.Models.TaiKhoan, QL_GIAODUC_ONLINE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.TaiKhoanController",
+    "Method": "PostTaiKhoan",
+    "RelativePath": "api/TaiKhoan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taiKhoan",
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.TaiKhoan",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.TaiKhoan",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.TaiKhoanController",
+    "Method": "GetTaiKhoan",
+    "RelativePath": "api/TaiKhoan/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.TaiKhoan",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.TaiKhoanController",
+    "Method": "PutTaiKhoan",
+    "RelativePath": "api/TaiKhoan/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "taiKhoan",
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.TaiKhoan",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.TaiKhoanController",
+    "Method": "DeleteTaiKhoan",
+    "RelativePath": "api/TaiKhoan/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.TaiKhoanController",
+    "Method": "Login",
+    "RelativePath": "api/TaiKhoan/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "QL_GIAODUC_ONLINE.Controllers.TaiKhoanController\u002BLoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.TaiKhoan",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.TienDoHocTapController",
+    "Method": "GetTienDoHocTaps",
+    "RelativePath": "api/TienDoHocTap",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HETHONG_QUANLY_GIAODUC_MVC.Models.TienDoHocTap, QL_GIAODUC_ONLINE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.TienDoHocTapController",
+    "Method": "PostTienDoHocTap",
+    "RelativePath": "api/TienDoHocTap",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tienDoHocTap",
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.TienDoHocTap",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.TienDoHocTap",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.TienDoHocTapController",
+    "Method": "GetTienDoHocTap",
+    "RelativePath": "api/TienDoHocTap/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.TienDoHocTap",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.TienDoHocTapController",
+    "Method": "PutTienDoHocTap",
+    "RelativePath": "api/TienDoHocTap/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "tienDoHocTap",
+        "Type": "HETHONG_QUANLY_GIAODUC_MVC.Models.TienDoHocTap",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.TienDoHocTapController",
+    "Method": "UpdateTrangThai",
+    "RelativePath": "api/TienDoHocTap/{id}/status",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "trangThai",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.TienDoHocTapController",
+    "Method": "GetTienDoByKhoaHocAndHocVien",
+    "RelativePath": "api/TienDoHocTap/khoahoc/{khoaHocId}/hocvien/{hocVienId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "khoaHocId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "hocVienId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HETHONG_QUANLY_GIAODUC_MVC.Models.TienDoHocTap, QL_GIAODUC_ONLINE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "QL_GIAODUC_ONLINE.Controllers.UploadController",
+    "Method": "Upload",
+    "RelativePath": "api/Upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

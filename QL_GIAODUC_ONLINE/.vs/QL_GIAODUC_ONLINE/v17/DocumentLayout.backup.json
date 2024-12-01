@@ -1,0 +1,464 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|d:\\job\\ql_gd\\ql_giaoduc_online\\ql_giaoduc_online\\controllers\\hocviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|solutionrelative:ql_giaoduc_online\\controllers\\hocviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|d:\\job\\ql_gd\\ql_giaoduc_online\\ql_giaoduc_online\\controllers\\baihoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|solutionrelative:ql_giaoduc_online\\controllers\\baihoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|d:\\job\\ql_gd\\ql_giaoduc_online\\ql_giaoduc_online\\controllers\\giangviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|solutionrelative:ql_giaoduc_online\\controllers\\giangviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|d:\\job\\ql_gd\\ql_giaoduc_online\\ql_giaoduc_online\\controllers\\hocvien_khoahoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|solutionrelative:ql_giaoduc_online\\controllers\\hocvien_khoahoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|d:\\job\\ql_gd\\ql_giaoduc_online\\ql_giaoduc_online\\controllers\\tiendohoctapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|solutionrelative:ql_giaoduc_online\\controllers\\tiendohoctapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/HUY/QLGD_TT/True/SqlTable/dbo.TienDoHocTap.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|d:\\job\\ql_gd\\ql_giaoduc_online\\ql_giaoduc_online\\models\\tiendohoctap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|solutionrelative:ql_giaoduc_online\\models\\tiendohoctap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|d:\\job\\ql_gd\\ql_giaoduc_online\\ql_giaoduc_online\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|solutionrelative:ql_giaoduc_online\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|d:\\job\\ql_gd\\ql_giaoduc_online\\ql_giaoduc_online\\controllers\\khoahoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|solutionrelative:ql_giaoduc_online\\controllers\\khoahoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|d:\\job\\ql_gd\\ql_giaoduc_online\\ql_giaoduc_online\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|solutionrelative:ql_giaoduc_online\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|d:\\job\\ql_gd\\ql_giaoduc_online\\ql_giaoduc_online\\controllers\\luachoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|solutionrelative:ql_giaoduc_online\\controllers\\luachoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|d:\\job\\ql_gd\\ql_giaoduc_online\\ql_giaoduc_online\\controllers\\cauhoicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|solutionrelative:ql_giaoduc_online\\controllers\\cauhoicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|d:\\job\\ql_gd\\ql_giaoduc_online\\ql_giaoduc_online\\models\\baikiemtra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|solutionrelative:ql_giaoduc_online\\models\\baikiemtra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|d:\\job\\ql_gd\\ql_giaoduc_online\\ql_giaoduc_online\\controllers\\baikiemtracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|solutionrelative:ql_giaoduc_online\\controllers\\baikiemtracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|d:\\job\\ql_gd\\ql_giaoduc_online\\ql_giaoduc_online\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|solutionrelative:ql_giaoduc_online\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|d:\\job\\ql_gd\\ql_giaoduc_online\\ql_giaoduc_online\\models\\hocvien_khoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|solutionrelative:ql_giaoduc_online\\models\\hocvien_khoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|d:\\job\\ql_gd\\ql_giaoduc_online\\ql_giaoduc_online\\models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|solutionrelative:ql_giaoduc_online\\models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|d:\\job\\ql_gd\\ql_giaoduc_online\\ql_giaoduc_online\\models\\khoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|solutionrelative:ql_giaoduc_online\\models\\khoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|d:\\job\\ql_gd\\ql_giaoduc_online\\ql_giaoduc_online\\models\\luachon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|solutionrelative:ql_giaoduc_online\\models\\luachon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|d:\\job\\ql_gd\\ql_giaoduc_online\\ql_giaoduc_online\\models\\baihoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|solutionrelative:ql_giaoduc_online\\models\\baihoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|d:\\job\\ql_gd\\ql_giaoduc_online\\ql_giaoduc_online\\models\\hocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|solutionrelative:ql_giaoduc_online\\models\\hocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|d:\\job\\ql_gd\\ql_giaoduc_online\\ql_giaoduc_online\\models\\giangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|solutionrelative:ql_giaoduc_online\\models\\giangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/HUY/QLGD_TT/True/SqlTable/dbo.BaiHoc.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|d:\\job\\ql_gd\\ql_giaoduc_online\\ql_giaoduc_online\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|solutionrelative:ql_giaoduc_online\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|d:\\job\\ql_gd\\ql_giaoduc_online\\ql_giaoduc_online\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC636962-8F62-465D-98D6-D8994230DBD3}|QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE.csproj|solutionrelative:ql_giaoduc_online\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/HUY/QLGD_TT/True/SqlTable/dbo.TaiKhoan.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GiangVienController.cs",
+              "DocumentMoniker": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Controllers\\GiangVienController.cs",
+              "RelativeDocumentMoniker": "QL_GIAODUC_ONLINE\\Controllers\\GiangVienController.cs",
+              "ToolTip": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Controllers\\GiangVienController.cs",
+              "RelativeToolTip": "QL_GIAODUC_ONLINE\\Controllers\\GiangVienController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwCgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:39:04.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaiHocController.cs",
+              "DocumentMoniker": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Controllers\\BaiHocController.cs",
+              "RelativeDocumentMoniker": "QL_GIAODUC_ONLINE\\Controllers\\BaiHocController.cs",
+              "ToolTip": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Controllers\\BaiHocController.cs",
+              "RelativeToolTip": "QL_GIAODUC_ONLINE\\Controllers\\BaiHocController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAArwGIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:47:50.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HocVienController.cs",
+              "DocumentMoniker": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Controllers\\HocVienController.cs",
+              "RelativeDocumentMoniker": "QL_GIAODUC_ONLINE\\Controllers\\HocVienController.cs",
+              "ToolTip": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Controllers\\HocVienController.cs",
+              "RelativeToolTip": "QL_GIAODUC_ONLINE\\Controllers\\HocVienController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T04:43:22.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HocVien_KhoaHocController.cs",
+              "DocumentMoniker": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Controllers\\HocVien_KhoaHocController.cs",
+              "RelativeDocumentMoniker": "QL_GIAODUC_ONLINE\\Controllers\\HocVien_KhoaHocController.cs",
+              "ToolTip": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Controllers\\HocVien_KhoaHocController.cs",
+              "RelativeToolTip": "QL_GIAODUC_ONLINE\\Controllers\\HocVien_KhoaHocController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwEsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:56:19.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TienDoHocTapController.cs",
+              "DocumentMoniker": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Controllers\\TienDoHocTapController.cs",
+              "RelativeDocumentMoniker": "QL_GIAODUC_ONLINE\\Controllers\\TienDoHocTapController.cs",
+              "ToolTip": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Controllers\\TienDoHocTapController.cs",
+              "RelativeToolTip": "QL_GIAODUC_ONLINE\\Controllers\\TienDoHocTapController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwFAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:33:53.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.TienDoHocTap [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/HUY/QLGD_TT/True/SqlTable/dbo.TienDoHocTap.sql",
+              "ToolTip": "dbo.TienDoHocTap [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-01T09:44:44.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TienDoHocTap.cs",
+              "DocumentMoniker": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Models\\TienDoHocTap.cs",
+              "RelativeDocumentMoniker": "QL_GIAODUC_ONLINE\\Models\\TienDoHocTap.cs",
+              "ToolTip": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Models\\TienDoHocTap.cs",
+              "RelativeToolTip": "QL_GIAODUC_ONLINE\\Models\\TienDoHocTap.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:59:53.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\DATA\\DBContext.cs",
+              "RelativeDocumentMoniker": "QL_GIAODUC_ONLINE\\DATA\\DBContext.cs",
+              "ToolTip": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\DATA\\DBContext.cs",
+              "RelativeToolTip": "QL_GIAODUC_ONLINE\\DATA\\DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:47:47.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KhoaHocController.cs",
+              "DocumentMoniker": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Controllers\\KhoaHocController.cs",
+              "RelativeDocumentMoniker": "QL_GIAODUC_ONLINE\\Controllers\\KhoaHocController.cs",
+              "ToolTip": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Controllers\\KhoaHocController.cs",
+              "RelativeToolTip": "QL_GIAODUC_ONLINE\\Controllers\\KhoaHocController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:08:42.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaiKhoanController.cs",
+              "DocumentMoniker": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Controllers\\TaiKhoanController.cs",
+              "RelativeDocumentMoniker": "QL_GIAODUC_ONLINE\\Controllers\\TaiKhoanController.cs",
+              "ToolTip": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Controllers\\TaiKhoanController.cs",
+              "RelativeToolTip": "QL_GIAODUC_ONLINE\\Controllers\\TaiKhoanController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:31:02.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LuaChonController.cs",
+              "DocumentMoniker": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Controllers\\LuaChonController.cs",
+              "RelativeDocumentMoniker": "QL_GIAODUC_ONLINE\\Controllers\\LuaChonController.cs",
+              "ToolTip": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Controllers\\LuaChonController.cs",
+              "RelativeToolTip": "QL_GIAODUC_ONLINE\\Controllers\\LuaChonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:08:41.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CauHoiController.cs",
+              "DocumentMoniker": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Controllers\\CauHoiController.cs",
+              "RelativeDocumentMoniker": "QL_GIAODUC_ONLINE\\Controllers\\CauHoiController.cs",
+              "ToolTip": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Controllers\\CauHoiController.cs",
+              "RelativeToolTip": "QL_GIAODUC_ONLINE\\Controllers\\CauHoiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:01:06.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaiKiemTra.cs",
+              "DocumentMoniker": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Models\\BaiKiemTra.cs",
+              "RelativeDocumentMoniker": "QL_GIAODUC_ONLINE\\Models\\BaiKiemTra.cs",
+              "ToolTip": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Models\\BaiKiemTra.cs",
+              "RelativeToolTip": "QL_GIAODUC_ONLINE\\Models\\BaiKiemTra.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:01:13.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaiKiemTraController.cs",
+              "DocumentMoniker": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Controllers\\BaiKiemTraController.cs",
+              "RelativeDocumentMoniker": "QL_GIAODUC_ONLINE\\Controllers\\BaiKiemTraController.cs",
+              "ToolTip": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Controllers\\BaiKiemTraController.cs",
+              "RelativeToolTip": "QL_GIAODUC_ONLINE\\Controllers\\BaiKiemTraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:23:45.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Program.cs",
+              "RelativeDocumentMoniker": "QL_GIAODUC_ONLINE\\Program.cs",
+              "ToolTip": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Program.cs",
+              "RelativeToolTip": "QL_GIAODUC_ONLINE\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwBAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:49:12.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HocVien_KhoaHoc.cs",
+              "DocumentMoniker": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Models\\HocVien_KhoaHoc.cs",
+              "RelativeDocumentMoniker": "QL_GIAODUC_ONLINE\\Models\\HocVien_KhoaHoc.cs",
+              "ToolTip": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Models\\HocVien_KhoaHoc.cs",
+              "RelativeToolTip": "QL_GIAODUC_ONLINE\\Models\\HocVien_KhoaHoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:56:41.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Models\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "QL_GIAODUC_ONLINE\\Models\\TaiKhoan.cs",
+              "ToolTip": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Models\\TaiKhoan.cs",
+              "RelativeToolTip": "QL_GIAODUC_ONLINE\\Models\\TaiKhoan.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:31:17.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KhoaHoc.cs",
+              "DocumentMoniker": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Models\\KhoaHoc.cs",
+              "RelativeDocumentMoniker": "QL_GIAODUC_ONLINE\\Models\\KhoaHoc.cs",
+              "ToolTip": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Models\\KhoaHoc.cs",
+              "RelativeToolTip": "QL_GIAODUC_ONLINE\\Models\\KhoaHoc.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T04:41:34.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaiHoc.cs",
+              "DocumentMoniker": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Models\\BaiHoc.cs",
+              "RelativeDocumentMoniker": "QL_GIAODUC_ONLINE\\Models\\BaiHoc.cs",
+              "ToolTip": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Models\\BaiHoc.cs",
+              "RelativeToolTip": "QL_GIAODUC_ONLINE\\Models\\BaiHoc.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:02:37.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LuaChon.cs",
+              "DocumentMoniker": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Models\\LuaChon.cs",
+              "RelativeDocumentMoniker": "QL_GIAODUC_ONLINE\\Models\\LuaChon.cs",
+              "ToolTip": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Models\\LuaChon.cs",
+              "RelativeToolTip": "QL_GIAODUC_ONLINE\\Models\\LuaChon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:22:18.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HocVien.cs",
+              "DocumentMoniker": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Models\\HocVien.cs",
+              "RelativeDocumentMoniker": "QL_GIAODUC_ONLINE\\Models\\HocVien.cs",
+              "ToolTip": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Models\\HocVien.cs",
+              "RelativeToolTip": "QL_GIAODUC_ONLINE\\Models\\HocVien.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T04:42:47.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GiangVien.cs",
+              "DocumentMoniker": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Models\\GiangVien.cs",
+              "RelativeDocumentMoniker": "QL_GIAODUC_ONLINE\\Models\\GiangVien.cs",
+              "ToolTip": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Models\\GiangVien.cs",
+              "RelativeToolTip": "QL_GIAODUC_ONLINE\\Models\\GiangVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:21:13.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dbo.BaiHoc.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/HUY/QLGD_TT/True/SqlTable/dbo.BaiHoc.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/HUY/QLGD_TT/True/SqlTable/dbo.BaiHoc.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-01T03:31:30.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UploadController.cs",
+              "DocumentMoniker": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Controllers\\UploadController.cs",
+              "RelativeDocumentMoniker": "QL_GIAODUC_ONLINE\\Controllers\\UploadController.cs",
+              "ToolTip": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\Controllers\\UploadController.cs",
+              "RelativeToolTip": "QL_GIAODUC_ONLINE\\Controllers\\UploadController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:05:47.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "QL_GIAODUC_ONLINE\\appsettings.Development.json",
+              "ToolTip": "D:\\JOB\\QL_GD\\QL_GIAODUC_ONLINE\\QL_GIAODUC_ONLINE\\appsettings.Development.json",
+              "RelativeToolTip": "QL_GIAODUC_ONLINE\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T15:49:01.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "dbo.TaiKhoan.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/HUY/QLGD_TT/True/SqlTable/dbo.TaiKhoan.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/HUY/QLGD_TT/True/SqlTable/dbo.TaiKhoan.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-30T15:34:47.632Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

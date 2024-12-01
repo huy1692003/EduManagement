@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\QL_GIAODUC_ONLINE.props" />
+</Project>
